@@ -97,7 +97,7 @@ Le schéma relationnel est disponible dans `documentation_bdd/schema_relationnel
 ## Structure du projet
 
 ```
-DATAImmo/
+dataImmo-real-estate-database/
 ├── data/                               # Données sources (CSV)
 │   ├── biens.csv
 │   ├── communes.csv
