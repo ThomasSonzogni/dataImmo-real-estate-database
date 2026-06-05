@@ -35,6 +35,27 @@ modélisation relationnelle, création d'une base de données et rédaction de r
 | SQLite             | Gestion de la base de données relationnelle |
 | SQL Power Architect | Conception du schéma relationnel           |
 | Excel              | Exploration et dictionnaire de données     |
+
+ ---
+ 
+## Structure du projet
+ 
+```
+Analyse_marche_assurances_habitation/
+├── data/
+│   ├── Contrat.csv
+│   └── Region.csv
+│
+├── documentation_bdd/
+│   ├── dictionnaire_données_thomas_sonzogni.xlsx
+│   ├── Document technique projet 3.docx
+│   └── projet3oc.sqlite
+│
+├── presentation/
+│   └── presentation.pptx
+│
+└── README.md
+```
  
 ---
  
